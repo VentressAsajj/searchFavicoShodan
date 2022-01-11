@@ -4,8 +4,8 @@
 '''
 Los navegadores modernos muestran una pequeña imagen (icono) en el lado izquierdo
 del titulo de la pagina web. Ese icono se conoce como favicon.ico
-Este programa calcula el hash del favicon.ico de un servicio oculto y lo buscara en shodan.
-Para buscar usa tor por lo que puedes buscar favicon.ico en servicios ocultos.
+Este programa calcula el hash del favicon.ico de una url y lo buscara en shodan.
+El programa usa TOR por lo que puedes buscar favicon.ico en servicios ocultos.
 
 NOTA: Usa la API de Shodan para buscar. Debes de incluir tu API de desarrollador.
 
